@@ -1,10 +1,10 @@
 {
   "owners": [
-    "YOUR_TWITCH_NAME"
+    "Kawaki_WZ"
   ],
-  "username": "Bot_USERNAME",
+  "username": "WaterPlouf42",
   "password": "BOT OAUTH PASSWORD",
   "channels": [
-    "YOUR_CHANNEL_NAME twitch.tv/CHANNEL_NAME"
+    "YOUR_CHANNEL_NAME twitch.tv/kawaki_wz"
   ]
 }
